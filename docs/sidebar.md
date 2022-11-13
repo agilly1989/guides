@@ -8,6 +8,7 @@
             -  ~~[FunkiiU](WiiU/Tools/Nusdownloaders/FunkiiU)~~
             -  [JNUSTool](WiiU/Tools/Nusdownloaders/JNUSTool)
             -  ~~[USBHelper + Launcher](WiiU/Tools/Nusdownloaders/USBHelper)~~
+			- [Wii U Downloader](WiiU/Tools/Nusdownloaders/WiiUDownloader)
         - Other Tools
             - [JWUDTool](WiiU/Tools/Other/JWUDTool)
             - ~~[JNUSLibDecryptor]()~~
