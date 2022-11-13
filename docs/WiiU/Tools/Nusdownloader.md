@@ -7,3 +7,4 @@ You have a few options when it comes to NUSDownloaders...
 * [USBHelper + Launcher](/WiiU/Tools/Nusdownloaders/USBHelper)
 * [JNUSTool](/WiiU/Tools/Nusdownloaders/JNUSTool)
 * [FunkiiU](/WiiU/Tools/Nusdownloaders/FunkiiU)
+* [Wii U Downloader](/WiiU/Tools/Nusdownloaders/WiiUDownloader)
