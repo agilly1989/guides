@@ -74,7 +74,7 @@ Can be located at the following
 
 <!-- tabs:start -->
 #### **`TitleKey`**
-Only needed if you want to Decrypt to RAW
+Only needed if you want to Decrypt to [RAW](WiiU/Formats/RAW)
 
 Can be located at the following
 * [vault.titlekeys.ovh :fas fa-up-right-from-square:](http://vault.titlekeys.ovh/listing/)
@@ -85,11 +85,11 @@ Can be located at the following
 <!-- tabs:start -->
 #### **`-dlEncrypted`**
 
-Downloads a WUP
+Downloads a [WUP](WiiU/Formats/WUP)
 
 #### **`-file REGEX`**
 
-Download RAW files that match the `REGEX` pattern. Recommended `REGEX` is `.*`
+Download [RAW](WiiU/Formats/RAW) files that match the `REGEX` pattern. Recommended `REGEX` is `.*`
 
 > [!Note]
 > You may need to use your distros/terminals escape characters for it to work properly

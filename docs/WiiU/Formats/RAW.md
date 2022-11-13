@@ -1,6 +1,6 @@
 # RAW files
 
-RAW files (Otherwise known as Loadiine) look like this
+[RAW](WiiU/Formats/RAW) files (Otherwise known as Loadiine) look like this
 
 ```
 📁 gamename_folder
@@ -56,13 +56,22 @@ For connecting a WiiU formatted drive to your PC for **DUMPING ONLY**
 
 <!-- tabs:start -->
 
-#### **WUD/WUX**
+#### **WUD/WUX File**
 
-### WUD/WUX
+### WUD/WUX File
+
+* [JWUDTool](/WiiU/Tools/Other/JWUDTool)
 
 #### **WUP**
 
 ### WUP
+
+* [JNUSLib Decryptor :fas fa-up-right-from-square:](https://github.com/Maschell/JNUSLibDecryptor) (Java)
+    * If you don't have java, install it from your repos or from [Eclipse Temurin :fas fa-up-right-from-square:](https://adoptium.net/temurin/releases/)
+* CDecrypt
+    * [Version 2.0b :fas fa-up-right-from-square:](https://gbatemp.net/download/cdecrypt.35671/)
+    * [Version 3.0 :fas fa-up-right-from-square:](https://gbatemp.net/threads/release-cdecrypt-v3-0.554220/)
+    * [Version 4.x :fas fa-up-right-from-square:](https://gbatemp.net/threads/release-cdecrypt-v4-x.578790/)
 
 #### **NUS**
 
@@ -73,7 +82,7 @@ For connecting a WiiU formatted drive to your PC for **DUMPING ONLY**
 
 <!-- tabs:end -->
 
-And that should get you RAW files
+And that should get you [RAW](WiiU/Formats/RAW) files
 
 <!-- tabs:start -->
 

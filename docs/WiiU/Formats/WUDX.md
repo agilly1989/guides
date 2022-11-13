@@ -1,9 +1,9 @@
 # WUD and WUX
 
-To get a WUD or WUX file, you can use whatever method you choose
+To get a [WUD](WiiU/Formats/WUDX) or [WUX](WiiU/Formats/WUDX) file, you can use whatever method you choose
 
 > [!NOTE]
-> Remeber, a WUD is a full disc image so it will be about 25GB in size. If you do not need a WUD or a WUX avoid downloading it. To confirm if you need it or not, check the [WiiUBrew title database "eShop and disc titles" section :fas fa-up-right-from-square:](https://wiiubrew.org/wiki/Title_database#00050000:_eShop_and_disc_titles) and if it says "No TMD" it is either Disc Only or is no longer available from the NUS
+> Remeber, a [WUD](WiiU/Formats/WUDX) is a full disc image so it will be about 25GB in size. If you do not need a [WUD](WiiU/Formats/WUDX) or a [WUX](WiiU/Formats/WUDX) avoid downloading it. To confirm if you need it or not, check the [WiiUBrew title database "eShop and disc titles" section :fas fa-up-right-from-square:](https://wiiubrew.org/wiki/Title_database#00050000:_eShop_and_disc_titles) and if it says "No TMD" it is either Disc Only or is no longer available from the NUS
 
 <!-- tabs:start -->
 
@@ -30,7 +30,7 @@ See [WiiU Guide: Dumping WiiU Discs :fas fa-up-right-from-square:](https://wiiu.
 ### Onto Cemu
 
 * Converting to [RAW](/WiiU/Formats/RAW) (Recommended)
-* Adding key to `keys.txt` and running WUD/WUX (Not really recommended but people do it anyway)
+* Adding key to `keys.txt` and running [WUD](WiiU/Formats/WUDX)/[WUX](WiiU/Formats/WUDX) (Not really recommended but people do it anyway)
     * Open (with a hex editor) the `game.key` file provided by `wudd` and add the key found (16 hex characters) without spaces to the `keys.txt` file next to `cemu.exe`
         * Recommended Hex editor for Windows: [HXD :fas fa-up-right-from-square:](https://mh-nexus.de/en/hxd/)
 
@@ -41,12 +41,12 @@ See [WiiU Guide: Dumping WiiU Discs :fas fa-up-right-from-square:](https://wiiu.
 ## From Not A Disc
 
 Then Google/Bing/DuckDuckGo is your friend... But to help you start, some search terms can be
-* WiiU WUD download
-* WiiU WUX download
+* WiiU [WUD](WiiU/Formats/WUDX) download
+* WiiU [WUX](WiiU/Formats/WUDX) download
 * [r/roms :fas fa-up-right-from-square:](https://www.reddit.com/r/Roms/) megathread
 * Rom To Home
 * WiiU alvro
-* [game name] WUD / WUX
+* [game name] [WUD](WiiU/Formats/WUDX) / [WUX](WiiU/Formats/WUDX)
 
 <!-- tabs:start -->
 
@@ -61,7 +61,7 @@ Convert to a [WUP](/WiiU/Formats/WUP)
 ### Onto Cemu
 
 * Converting to [RAW](/WiiU/Formats/RAW) (Recommended)
-* Adding key to `keys.txt` and running WUD/WUX (Not really recommended but people do it anyway)
+* Adding key to `keys.txt` and running [WUD](WiiU/Formats/WUDX)/[WUX](WiiU/Formats/WUDX) (Not really recommended but people do it anyway)
     * Open (with a hex editor) the `game.key` file provided by `wudd` and add the key found (16 hex characters) without spaces to the `keys.txt` file next to `cemu.exe`
         * Recommended Hex editor for Windows: [HXD :fas fa-up-right-from-square:](https://mh-nexus.de/en/hxd/)
     * If there is no `game.key` file, the key might be provided somewhere else with the download...

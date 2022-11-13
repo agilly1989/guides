@@ -1,6 +1,6 @@
 # WUP (WiiU Package)
 
-A WUP can be identified by a set of files that look like this
+A [WUP](WiiU/Formats/WUP)can be identified by a set of files that look like this
 
 ```
 📁 gamename_folder
@@ -36,7 +36,7 @@ See [WiiU Guide: Dumping WiiU Discs :fas fa-up-right-from-square:](https://wiiu.
 ### Onto Cemu
 
 * Converting to [RAW](/WiiU/Formats/RAW) (Recommended)
-* Adding key to `keys.txt` and running WUD/WUX (Not really recommended but people do it anyway)
+* Adding key to `keys.txt` and running [WUD](WiiU/Formats/WUDX)/[WUX](WiiU/Formats/WUDX) (Not really recommended but people do it anyway)
     * Open (with a hex editor) the `game.key` file provided by `wudd` and add the key found (16 hex characters) without spaces to the `keys.txt` file next to `cemu.exe`
         * Recommended Hex editor for Windows: [HXD :fas fa-up-right-from-square:](https://mh-nexus.de/en/hxd/)
 
@@ -53,8 +53,8 @@ See [WiiU Guide: Dumping WiiU Discs :fas fa-up-right-from-square:](https://wiiu.
 
 ### From a WUD/WUX File
 
-1. See [WUD/WUX](/WiiU/Formats/WUDX?id=from-not-a-disc) to get a WUD or WUX file
-2. Use one of the following tools to unpack the WUP from the disc image
+1. See [[WUD](WiiU/Formats/WUDX)/WUX](/WiiU/Formats/WUDX?id=from-not-a-disc) to get a [WUD](WiiU/Formats/WUDX) or WUX file
+2. Use one of the following tools to unpack the [WUP](WiiU/Formats/WUP) from the disc image
 * [JWUDTool](/WiiU/Tools/Other/JWUDTool)
 
 #### **From RAW**
@@ -77,7 +77,7 @@ See [WiiU Guide: Dumping WiiU Discs :fas fa-up-right-from-square:](https://wiiu.
 
 <!-- tabs:end -->
 
-At this point you should have a WUP
+At this point you should have a [WUP](WiiU/Formats/WUP)
 
 <!-- tabs:start -->
 
@@ -85,7 +85,7 @@ At this point you should have a WUP
 
 ### Onto A WiiU
 
-1. Copy the WUP to `sd:/install/gamename_folder` so it looks like this
+1. Copy the [WUP](WiiU/Formats/WUP) to `sd:/install/gamename_folder` so it looks like this
 
 ```
 💾 SD card root
@@ -110,7 +110,7 @@ At this point you should have a WUP
 
 ### Onto Cemu
 
-Unpack the WUP into RAW files with a tool below
+Unpack the [WUP](WiiU/Formats/WUP) into [RAW](WiiU/Formats/RAW) files with a tool below
 * [JNUSLib Decryptor :fas fa-up-right-from-square:](https://github.com/Maschell/JNUSLibDecryptor) (Java)
     * If you don't have java, install it from your repos or from [Eclipse Temurin :fas fa-up-right-from-square:](https://adoptium.net/temurin/releases/)
 * CDecrypt
