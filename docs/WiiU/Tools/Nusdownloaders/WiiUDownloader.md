@@ -6,6 +6,7 @@
 
 ## Output formats
 * [WUP](/WiiU/Formats/WUP) (Generates a `title.tik`)
+* [RAW](/WiiU/Formats/RAW)
 
 ## Pros and Cons
  
@@ -25,7 +26,7 @@
 
 ### Cons
 
-* Cannot decrypt to [RAW](/WiiU/Formats/RAW) in app (yet)
+* None!
 
 <!-- tabs:end -->
 
@@ -72,7 +73,7 @@
 
 #### **I want to emulate the game(s) with CEMU!**
 
-1. Unpack the [WUP](/WiiU/Formats/WUP) to [RAW](/WiiU/Formats/RAW)
+1. Check the `Decrypt contents` checkbox before downloading the title(s)
 1. [Install to CEMU :fas fa-up-right-from-square:](https://cemu.cfw.guide/installing-games.html?tab=installing-dumps)
 
 <!-- tabs:end -->
