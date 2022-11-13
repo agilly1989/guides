@@ -47,7 +47,7 @@
 1. Open a terminal and install homebrew with `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 1. Put your password when prompted and if asked to install developer tools, say yes
 1. After it's done, run in a terminal `brew install gtkmm3`
-1. Download the archive from the GitHub releases that contains "macOS".
+1. Download the archive from the GitHub releases that contains `macOS`.
 1. Extract the archive.
 1. Double click the executable.
 1. Select a game you want and add it to the queue (if you want multiple games you will have to do this for each)
