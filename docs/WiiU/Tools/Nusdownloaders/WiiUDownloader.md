@@ -6,6 +6,7 @@
 
 ## Output formats
 * [WUP](/WiiU/Formats/WUP) (Generates a `title.tik`)
+* [RAW](/WiiU/Formats/RAW)
 
 ## Pros and Cons
  
@@ -25,19 +26,37 @@
 
 ### Cons
 
-* Cannot decrypt to [RAW](/WiiU/Formats/RAW) in app (yet)
+* None!
 
 <!-- tabs:end -->
 
 ## Usage
 
-1. Download the one for your OS.
+<!-- tabs:start -->
+
+#### **Windows & Linux**
+
+1. Download the archive from the GitHub releases for your Operating System.
 1. Extract the archive.
 1. Double click the executable.
 1. Select a game you want and add it to the queue (if you want multiple games you will have to do this for each)
 1. Click `Download Queue` and select the location you want to download it to.
 1. Wait.
 1. When it's done:
+
+#### **macOS**
+1. Open a terminal and install homebrew with `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+1. Put your password when prompted and if asked to install developer tools, say yes
+1. After it's done, run in a terminal `brew install gtkmm3`
+1. Download the archive from the GitHub releases that contains `macOS`.
+1. Extract the archive.
+1. Double click the executable.
+1. Select a game you want and add it to the queue (if you want multiple games you will have to do this for each)
+1. Click `Download Queue` and select the location you want to download it to.
+1. Wait.
+1. When it's done:
+
+<!-- tabs:end -->
 
 <!-- tabs:start -->
 
@@ -54,7 +73,7 @@
 
 #### **I want to emulate the game(s) with CEMU!**
 
-1. Unpack the [WUP](/WiiU/Formats/WUP) to [RAW](/WiiU/Formats/RAW)
+1. Check the `Decrypt contents` checkbox before downloading the title(s)
 1. [Install to CEMU :fas fa-up-right-from-square:](https://cemu.cfw.guide/installing-games.html?tab=installing-dumps)
 
 <!-- tabs:end -->
