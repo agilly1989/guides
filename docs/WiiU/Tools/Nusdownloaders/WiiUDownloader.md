@@ -58,4 +58,11 @@
 1. Check the `Decrypt contents` checkbox before downloading the title(s)
 1. [Install to CEMU :fas fa-up-right-from-square:](https://cemu.cfw.guide/installing-games.html?tab=installing-dumps)
 
+OR if you have already downloaded the game:
+
+1. Start Wii U Downloader.
+1. Click "Tools".
+1. Click "Decrypt".
+1. Find the WUP folder and open it in Wii U Downloader.
+1. Once its finished decrypting, follow the [Install to CEMU :fas fa-up-right-from-square:](https://cemu.cfw.guide/installing-games.html?tab=installing-dumps) guide.
 <!-- tabs:end -->
