@@ -12,3 +12,4 @@
         - Other Tools
             - [JWUDTool](WiiU/Tools/Other/JWUDTool)
             - ~~[JNUSLibDecryptor]()~~
+- [Contribute (Please help if you can)](https://github.com/agilly1989/guides)
