@@ -50,6 +50,8 @@
 
 * You can make a [WUD](WiiU/Formats/WUDX)/[WUX](WiiU/Formats/WUDX)
     * At the time of writing, the only way you can make a [WUD](WiiU/Formats/WUDX) or a [WUX](WiiU/Formats/WUDX) is dumping one from an actual disc on a WiiU
+* A [WUX](WiiU/Formats/WUDX) is smaller than [RAW](WiiU/Formats/RAW) files
+    * This is incorrect... See [this information :fas fa-up-right-from-square:](https://www.reddit.com/r/CemuPiracy/comments/g08qxj/some_research_i_have_been_doing_into_game_sizes/)
 
 #### **Other Terms**
 
