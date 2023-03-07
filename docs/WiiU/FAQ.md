@@ -5,7 +5,7 @@ This is a work in progress
 
 <!-- tabs:start -->
 
-#### Global
+#### **Global**
 
 ##### Q: I can't find `ROM`
 
@@ -21,7 +21,7 @@ A: Check any of the following
             * `platform` nointro
                 * `Nintendo 64 nointro`
 
-#### WiiU Specific
+#### **WiiU Specific**
 
 ##### Q: How do I get WiiU Game/WUD/WUX/etc?</strong>
 
@@ -35,7 +35,7 @@ A: Find a rom/image of the game you want and use [UWUVCI :fas fa-up-right-from-s
 
 A: See `Global` Tab
 
-#### Cemu Specific
+#### **Cemu Specific**
 
 ##### Q: I am using the Cemu that USBHelper uses and I am having issues with
 * BCML
