@@ -44,6 +44,8 @@
 
 #### **I want it on a real Wii U!**
 
+1. Download and copy the [https://github.com/marco-calautti/SigpatchesModuleWiiU/releases/download/1.2/01_sigpatches.rpx :fas fa-up-right-from-square:](SigpatchesModule) to `sd:/wiiu/environments/aroma/modules/setup`.
+	* Tiramisu Users *probably* already have this. If not, it goes in the same place just replace `aroma` with `tiramisu`.
 1. Copy the downloaded folders to the `install` folder on the root of your SD Card.
 	* If this does not exist, make it.
 		* The folder name must be lowercase.
